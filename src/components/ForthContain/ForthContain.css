@@ -1,0 +1,52 @@
+#main-forthContain{
+    background-color: #fff;
+background-clip: border-box;
+border: 1px solid rgba(26,54,126,0.125);
+border-radius: 0.25rem;
+box-shadow: 0 0.46875rem 2.1875rem rgb(4 9 20 / 3%), 0 0.9375rem 1.40625rem rgb(4 9 20 / 3%), 0 0.25rem 0.53125rem rgb(4 9 20 / 5%), 0 0.125rem 0.1875rem rgb(4 9 20 / 3%);
+ margin-left: 250px;
+ padding: 20px;
+ 
+}
+select{
+    display: block;
+    width: 100%;
+    padding: 0.875rem 1.125rem;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1;
+    color: #69707a;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #c5ccd6;
+  
+     
+    border-radius: 0.35rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#forthContain-card{
+    width: 20%;
+height: 90%;
+background-color: #fff;
+box-sizing: border-box;
+background-clip: border-box;
+border: 1px solid rgba(33,40,50,.125);
+border-radius: 0.35rem;
+cursor: pointer;
+ 
+
+ 
+margin-left: 40px;
+justify-content: space-between;
+column-gap: 30px;
+justify-items: center;
+box-shadow: 0 0.46875rem 2.1875rem rgb(4 9 20 / 3%), 0 0.9375rem 1.40625rem rgb(4 9 20 / 3%), 0 0.25rem 0.53125rem rgb(4 9 20 / 5%), 0 0.125rem 0.1875rem rgb(4 9 20 / 3%);
+     
+}
+#parent-forthContain-card{
+
+display: flex;
+ 
+     
+      
+}

@@ -1,0 +1,38 @@
+#aside-bar{
+    box-shadow: 0 0.46875rem 2.1875rem rgb(4 9 20 / 3%), 0 0.9375rem 1.40625rem rgb(4 9 20 / 3%), 0 0.25rem 0.53125rem rgb(4 9 20 / 5%), 0 0.125rem 0.1875rem rgb(4 9 20 / 3%);
+transition: all .2s;
+background: #fff;
+min-height:68vh;
+height: 100%;
+ 
+ 
+position: fixed;
+z-index: 1;
+top: 100px;
+left: 0;
+ 
+overflow-x: hidden;
+padding-top: 20px;
+ 
+  
+ 
+ 
+ 
+}
+p{
+   margin-left: 20px;
+}
+#aside-bar-list{
+    list-style: none;
+    
+   
+}
+#aside-bar-list .aside-bar-items{
+   padding: 5px;
+  color: #6c757d;
+}
+#aside-bar-list .aside-bar-items:hover{
+    background: #9fc0f1;
+  
+color: #007bff;
+}
